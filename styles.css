@@ -1,0 +1,49 @@
+.body1{
+    background-image: url("https://ai.engin.umich.edu/wp-content/uploads/sites/2/2021/03/summarization-featured.jpg");
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+.body2{
+    background-image: url("https://t4.ftcdn.net/jpg/04/26/52/71/360_F_426527111_59QersN3ayDJ7Sfa5qwnKkp4l1O5tuAp.jpg");
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.jumbotron{
+    background-color: rgb(235, 196, 0);
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: rgba(0, 0, 0, 0.622) solid 10px ;
+    border-radius: 5px;
+}
+.second{
+    background-color: #f2cd9a;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: #f2cd9a5f solid 10px;
+    border-radius: 5px;
+}
+.original_title{
+    background-color: orangered;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.summary_title{
+    background-color: greenyellow;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-se-6{
+    margin: 40px;
+}
